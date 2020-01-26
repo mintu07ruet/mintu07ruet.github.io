@@ -51,7 +51,8 @@ atom_feed:
 
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   :384780
+
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/md-mintu-miah-9194a3166/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
