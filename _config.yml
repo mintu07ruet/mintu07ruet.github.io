@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "mdmintu.miah@mavs.uta.edu"
   generatedFields:
     date:
       type               : "date"
@@ -88,7 +88,7 @@ author:
   employer         : "University of Texas at Arlington"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tYNG1aQAAAAJ&hl=en"
-  email            :  "mdmintu.miah@mavs.uta.edu"
+  email            : "mdmintu.miah@mavs.uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/md-mintu-miah-9194a3166/"
+  linkedin         : "https://www.linkedin.com/in/md-mintu-miah-9194a3166"
   orcid            : "https://orcid.org/my-orcid"
   pinterest        :
   soundcloud       :
