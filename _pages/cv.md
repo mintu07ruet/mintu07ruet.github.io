@@ -12,16 +12,16 @@ redirect_from:
 Education
 ======
 * PH.D. IN TRANSPORTATION ENGINEERING, University of Texas at Arlington, USA, 2022(Expected)
-    *Dissertation: Data Mining and Machine learning Approach for AADBT Estimation
-    *Committee: Stephen P. Mattingly, Kyung Kate Hyun, Pengfei (Taylor) Li, James C.Williams, Noelle Fields
+    * Dissertation: Data Mining and Machine learning Approach for AADBT Estimation
+    * Committee: Stephen P. Mattingly, Kyung Kate Hyun, Pengfei (Taylor) Li, James C.Williams, Noelle Fields
 
 * MS IN TRANSPORTATION ENGINEERING, University of Hawaii at Manoa, USA, 2017-2018
-    *Thesis: Effects of Reading Text While Driving Analysis Of 200 Honolulu Taxi Drivers On A Vs500m Simulator
-    *Advisor: Panos D. Prevedouros
+    * Thesis: Effects of Reading Text While Driving Analysis Of 200 Honolulu Taxi Drivers On A Vs500m Simulator
+    * Advisor: Panos D. Prevedouros
 
 * BS IN CIVIL ENGINEERING, Rajshahi University of Engineering and Technology (RUET), Bangaldesh, 2008-2012
-    *Thesis: Numerical Analysis of Coupled Shear Wall for Drift Control
-    *Advisor: Tohur Ahmed
+    * Thesis: Numerical Analysis of Coupled Shear Wall for Drift Control
+    * Advisor: Tohur Ahmed
 
 Work experience
 ======
