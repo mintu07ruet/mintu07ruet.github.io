@@ -11,30 +11,62 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PH.D. IN TRANSPORTATION ENGINEERING, University of Texas at Arlington, USA, 2022(Expected)
+    *Dissertation: Data Mining and Machine learning Approach for AADBT Estimation
+    *Committee: Stephen P. Mattingly, Kyung Kate Hyun, Pengfei (Taylor) Li, James C.Williams, Noelle Fields
+
+* MS IN TRANSPORTATION ENGINEERING, University of Hawaii at Manoa, USA, 2017-2018
+    *Thesis: Effects of Reading Text While Driving Analysis Of 200 Honolulu Taxi Drivers On A Vs500m Simulator
+    *Advisor: Panos D. Prevedouros
+
+* BS IN CIVIL ENGINEERING, Rajshahi University of Engineering and Technology (RUET), Bangaldesh, 2008-2012
+    *Thesis: Numerical Analysis of Coupled Shear Wall for Drift Control
+    *Advisor: Tohur Ahmed
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 to Present: Graduate Research Assistant
+  * Traffic and Transportation Lab
+  * University of Texas at Arlington, USA
+  * Supervisor: Professor Stephen P. Mattingly
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2019 to April 2019: Graduate Teaching Assistant
+  * DEpartment of Civil Engineering
+  * University of Texas at Arlington, USA
+  * Course: Transportation Engineering (CE3302)
+  
+* August 2017 to December 2018: Graduate Research Assistant
+  * Traffic and Transportation Lab
+  * University of Hawaii at Manoa, USA
+  * Supervisor: Professor Panos D. Prevedouros
+  
+* April 2017 to September 2017: Assistant Profesor
+  * Department of Civil Engineering
+  * Rajshahi University of Engineering and Technology, Bangladesh
+ 
+* Febuary 2014 to March 2017: Lecturer
+  * Department of Civil Engineering
+  * Rajshahi University of Engineering and Technology, Bangladesh
+  
+* August 2013 to January 2014: Lecturer
+  * Department of Civil Engineering
+  * Stamford University of Bangladesh, Bangladesh
+  
+* May 2013 to September 2013: Lecturer
+  * Department of Civil Engineering
+  * World University of Bangladesh, Bangladesh
+
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R Programming (80%)
+* Python (30%)
+* Arc-GIS(80%)
+* SPSS(95%)
+* VISSIM(90%)
+* TransCAD(70%)
+* Microsoft Office (95%)
 
 Publications
 ======
