@@ -79,7 +79,11 @@ Research Interestes
 * Driving Behavior
 * Transportation Materials
 
-
+Professional Memberships
+======
+* American Society of Civil Engineers (ASCE)-11424635
+* ENV SP-Institute for Sustainability Infrastructure, USA 
+* The Institution of Engineers, Bangladesh (IEB)-36075
 
 Publications
 ======
