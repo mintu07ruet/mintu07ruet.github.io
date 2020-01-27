@@ -1,7 +1,7 @@
 ---
 title: "Transportation Engineering-I"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Rajshahi University of Engineering and Technology, Department of Civil Engineering"
 date: 2014-01-01 
