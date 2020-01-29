@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-12
 venue: 'TRB'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Courtney Cronley, N. F. (2020). Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit. Transportation Research Board.'
+citation: 'Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Courtney Cronley, N. F. (2020). Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit. Transportation Research Board 99th Annual Meeting.'
 ---
 
 
