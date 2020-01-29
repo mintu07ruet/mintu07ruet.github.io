@@ -11,7 +11,7 @@ location: "Texas, USA"
 
 
 Heading 1
-======
+I worked as a Graduate Teaching Assistant for this course with Professor Stephen P. Mattingly in Spring 2019. The total Number of undergrade students were 55.
 
 Heading 2
 ======
