@@ -86,7 +86,7 @@ author:
   bio              : "I like to think in a simple way of complex issues"
   location         : "Arlington, TX"
   employer         : "University of Texas at Arlington"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tYNG1aQAAAAJ&hl=en"
   email            : "mdmintu.miah@mavs.uta.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :  #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
