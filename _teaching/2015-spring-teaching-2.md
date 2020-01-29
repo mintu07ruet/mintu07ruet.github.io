@@ -1,10 +1,10 @@
 ---
-title: "Transportation Engineering-I and Transportation Engineering-II"
+title: "Transportation Engineering-I,Transportation Engineering-II and Transportation Engineering Sessional-II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Rajshahi University of Engineering and Technology, Department of Civil Engineering"
-date: 2014-01-01 
+venue: "Rajshahi Universit-y of Engineering and Technology, Department of Civil Engineering"
+date: 2014-01-01 to 2017-08
 location: "Rajshahi, Bangladesh"
 ---
 
