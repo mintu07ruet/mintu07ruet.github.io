@@ -12,7 +12,7 @@ location: "Rajshahi, Bangladesh"
 
 Heading 1
 ======
-I taught this course from 2014 to 2017
+
 Heading 2
 ======
 
