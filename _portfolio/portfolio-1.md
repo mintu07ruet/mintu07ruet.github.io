@@ -1,6 +1,6 @@
 ---
 
-title: "Research Group"
+title: Research Group
 
 excerpt: "In January 2020, at the momemnt of attending a world biggest conference named Transportation Research Board (TRB) at Washington DC.I Presented a conference paper tittled "Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit". This prject was funded by City of Arlington, Texas, USA. The part of our Transportation group at 2020 TRB in the below picture<br/><img src='/images/500x300.png'>"
 
