@@ -8,7 +8,7 @@ date: 2019-01-11
 location: "Texas, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======
