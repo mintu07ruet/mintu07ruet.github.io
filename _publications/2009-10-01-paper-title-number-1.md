@@ -6,10 +6,10 @@ excerpt: ''
 date: 2020-01-12
 venue: 'TRB'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Courtney Cronley, N. F. (2020). Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit. Transportation Research Board.'
 ---
 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Courtney Cronley, N. F. (2020). Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit. Transportation Research Board.
