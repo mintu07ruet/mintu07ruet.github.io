@@ -107,4 +107,4 @@ Service and leadership
 ======
 * Currently signed in to 3 different slack teams
 
-[Download CV](/portfolio-1.md.pdf)
+[Download CV](/files/portfolio-1.md.pdf)
