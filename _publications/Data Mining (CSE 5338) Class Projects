@@ -4,7 +4,7 @@ collection: Kaggle
 permalink: /publication/2020-03-03
 excerpt: ''
 date: 2020-03-03
-venue: 'Kaggle'
+venue: 'Kaggle- The purpose of this project was classification of Disater tweets to identify weather it is Disaster or Not Disaster related. This study has used BERT model which is the Neuaral Network techniques to decode the texts. This study has scored 0.81901 in the kaggle Leaderboard with 969 current position'
 paperurl: 'https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster'
 
 ---
