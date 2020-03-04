@@ -4,9 +4,8 @@ collection: Data Mining Project
 permalink: /publication/2020-03-03
 excerpt: ''
 date: 2020-03-03
-venue: 'International Conference on Planning, Architecture and Civil Engineering (ICPACE 2017),Rajshahi University of Engineering and Technology.'
 paperurl: 'https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster'
-citation: 'The purpose of this project was Classification Disaster tweets to identify weather it is disaster or not dsiaster related using Machine Learing Approach. In this Project I used BERT model which is a neural-network based techniques. The accuracy/Score of this model is 0.81901.
+Description of the Projects: 'The purpose of this project was Classification Disaster tweets to identify weather it is disaster or not dsiaster related using Machine Learing Approach. In this Project I used BERT model which is a neural-network based techniques. The accuracy/Score of this model is 0.81901.
  It has 967 position now in the Leaderboard.'
 
 ---
