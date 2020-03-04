@@ -4,7 +4,7 @@ title: "Real or Not? NLP with Disaster Tweets-CSE 5338 Data Mining Project Phase
 collection: Kaggle
 permalink: /publication/2020-03-03
 excerpt: ''
-date: 2017-02-10
+date: 2020-03-03
 venue: 'The purpose of this project was Classification Disaster tweets to identify weather it is disaster or not dsiaster related using Machine Learing Approach. In this Project I used BERT model which is a neural-network based techniques. The accuracy/Score of this model is 0.81901.
  It has 967 position now in the Leaderboard'
 paperurl: 'https://www.kaggle.com/mintumiah/nlp-disaster-or-not-disaster'
