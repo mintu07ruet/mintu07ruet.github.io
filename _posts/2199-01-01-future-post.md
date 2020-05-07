@@ -11,5 +11,7 @@ tags:
 The main purpose of the project is predicting the rating of the game, based on the given reviews and understanding how the test classification machine learning algorithm works and improving the outputs on existing references. The second purpose is providing good documentation for the whole process.
 
 [See Final Project](/files/Miah Project.html)
+
 [Download Final Project as ipynb file](/files/Miah Project.ipynb)
 
+[Visit the Kaggle page here](//https://www.kaggle.com/mintumiah/board-game-rating-prediction-based-on-reviews)
