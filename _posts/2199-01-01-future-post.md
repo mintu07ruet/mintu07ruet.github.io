@@ -10,6 +10,6 @@ tags:
 
 The main purpose of the project is predicting the rating of the game, based on the given reviews and understanding how the test classification machine learning algorithm works and improving the outputs on existing references. The second purpose is providing good documentation for the whole process.
 
-[See Assignment-03](/files/Miah Project.html)
-[Download Assignment-03 as ipynb file](/files/Miah Project.ipynb)
+[See Final Project](/files/Miah Project.html)
+[Download Final Project as ipynb file](/files/Miah Project.ipynb)
 
