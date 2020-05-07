@@ -14,4 +14,4 @@ The main purpose of the project is predicting the rating of the game, based on t
 
 [Download Final Project as ipynb file](/files/Miah Project.ipynb)
 
-[Visit the Kaggle page here](//https://www.kaggle.com/mintumiah/board-game-rating-prediction-based-on-reviews)
+
