@@ -10,6 +10,6 @@ citation: 'Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Co
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0739885920301992)
 
 
