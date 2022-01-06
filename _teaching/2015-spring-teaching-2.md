@@ -8,4 +8,10 @@ date: 2014-01-01
 location: "Rajshahi, Bangladesh"
 ---
 
+Role
+======
+1. Teaching undergraduate course and supervising undergraduate thesis
+2. Conducting research in the field of Transportation engineering
+3. Performing lab and field test on transportation materials 
+4. Served as a consultant for civil engineering infrastructure design
 
