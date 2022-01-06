@@ -73,13 +73,13 @@ JOURNAL PAPERS
 
 Published/In Print
 ======
-    * Miah, M., Hyun, K., Mattingly, S., Joseph, B., Nathan, M., & Sirisha, K. (2021). Challenges and Opportunities of Emerging Data Sources to Estimate Network-wide Bike Counts. Journal of Transportation Engineering, Part A : Systems, 148(3), 1–8. https://doi.org/10.1061/JTEPBS.0000634
-    * Miah, M., Naz, F., Hyun, K., Mattingly, S., Cronley, C., Fields, N (2020) Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit, Journal of Research in Transportation Economics, Elsevier, Vol 84, p. 101001
-    * Dipu Sutradhar , Mintu Miah , Golam Jilany Chowdhury , Mohd. Abdus Sobhan , Effect of Using Waste Material as Filler in Bituminous Mix Design, American Journal of Civil Engineering. Vol. 3, No. 3, 2015, pp. 88-94. doi: 10.11648/j.ajce.20150303.16
-    * Mamun, M.M.H., Miah, M.M. and Islam, M.I., 2015. Present condition of road traffic accident: A Case study of Rajshahi City, Bangladesh. International Journal of Computer Applications, vol. 111, issue 7, pp. 36-41
-    * Tanzim, S.M.Z. and Miah, M.M., 2016. Study of Parking Accumulation in Major on Street Parking Spots in Rajshahi City, Bangladesh. Journal of Construction and Building Materials Engineering, 2(1), pp.1-15, e-ISSN: 2581-6454.
-     *Miah, M.M., Asad, M.A., Serker, N.K. and Ahmed, T., 2013. Numerical Analysis of Coupled Shear Wall for Drift Control, Current Advances in Civil Engineering (CACE), American V-Kin g Scientific Publishing, Volume 1, Issue 1, pp.27-32
-    * MM Miah, MTI Tanoy, MS Rana., 2016,” Performance Evaluation of Household Waste Plastic as Additive in the Bituminous Mix Design” International Journal of Scientific & Engineering Research, Volume 7,PP 1495-1500,  Issue 1, January-2016, ISSN 2229-5518
+   * Miah, M., Hyun, K., Mattingly, S., Joseph, B., Nathan, M., & Sirisha, K. (2021). Challenges and Opportunities of Emerging Data Sources to Estimate Network-wide Bike Counts. Journal of Transportation Engineering, Part A : Systems, 148(3), 1–8. https://doi.org/10.1061/JTEPBS.0000634
+   * Miah, M., Naz, F., Hyun, K., Mattingly, S., Cronley, C., Fields, N (2020) Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit, Journal of Research in Transportation Economics, Elsevier, Vol 84, p. 101001
+   * Dipu Sutradhar , Mintu Miah , Golam Jilany Chowdhury , Mohd. Abdus Sobhan , Effect of Using Waste Material as Filler in Bituminous Mix Design, American Journal of Civil Engineering. Vol. 3, No. 3, 2015, pp. 88-94. doi: 10.11648/j.ajce.20150303.16
+   * Mamun, M.M.H., Miah, M.M. and Islam, M.I., 2015. Present condition of road traffic accident: A Case study of Rajshahi City, Bangladesh. International Journal of Computer Applications, vol. 111, issue 7, pp. 36-41
+   * Tanzim, S.M.Z. and Miah, M.M., 2016. Study of Parking Accumulation in Major on Street Parking Spots in Rajshahi City, Bangladesh. Journal of Construction and Building Materials Engineering, 2(1), pp.1-15, e-ISSN: 2581-6454.
+   * Miah, M.M., Asad, M.A., Serker, N.K. and Ahmed, T., 2013. Numerical Analysis of Coupled Shear Wall for Drift Control, Current Advances in Civil Engineering (CACE), American V-Kin g Scientific Publishing, Volume 1, Issue 1, pp.27-32
+   * MM Miah, MTI Tanoy, MS Rana., 2016,” Performance Evaluation of Household Waste Plastic as Additive in the Bituminous Mix Design” International Journal of Scientific & Engineering Research, Volume 7,PP 1495-1500,  Issue 1, January-2016, ISSN 2229-5518
 
 BOOK CHAPTER
 ======
@@ -88,21 +88,21 @@ BOOK CHAPTER
    
  PEER REVIEWED CONFERENCE PROCEEDINGS  
 ======
-    * Miah, M., Hyun, K., Mattingly, S., Khan, H., (2022) Estimation of Daily Bicycle Traffic Using Machine and Deep Learning Techniques, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2022
-    * Miah, M., Naz, F., Hyun, K., Mattingly, S., Cronley, C., Fields, N (2020) Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2020
-    * Md Mintu Miah, Kate (Kyung) Hyun, Stephen P. Mattingly, Joseph Broach, Nathan McNeil, Sirisha Kothuri, (2021), “Challenges and Opportunities of Emerging Data Sources to Estimate Network-wide Bike Counts”, International Symposium on Transportation Data and Modelling, June 21~23, 2021 @University of Michigan, Ann Arbor, USA.
-    * Panos D Prevedouros, Eftihia G Nathanail, Md Mintu Miah, Rafaela De Melo Barros (2020). Analysis of Professional Drivers while Text-Reading, and Prediction of Driving Behavior Using Cluster Modeling, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2020.
-    * Md. Mintu Miah, Panos D Prevedouros,(2019). Effects of Reading Text While Driving: Analysis of 200 Honolulu Taxi Drivers on a Simulator, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2019.
-    * Das, B.K. and Miah, M.M.,(2017). Present Conditions of Most Hazardous Road Intersections: A Case Study of Rajshahi City, Bangladesh. International Conference on Planning, Architecture and Civil Engineering (ICPACE 2017), Volume-1, Issue-1, Pp-265-270, ISBN: 978-984-34-2154-8
+   * Miah, M., Hyun, K., Mattingly, S., Khan, H., (2022) Estimation of Daily Bicycle Traffic Using Machine and Deep Learning Techniques, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2022
+   * Miah, M., Naz, F., Hyun, K., Mattingly, S., Cronley, C., Fields, N (2020) Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2020
+   * Md Mintu Miah, Kate (Kyung) Hyun, Stephen P. Mattingly, Joseph Broach, Nathan McNeil, Sirisha Kothuri, (2021), “Challenges and Opportunities of Emerging Data Sources to Estimate Network-wide Bike Counts”, International Symposium on Transportation Data and Modelling, June 21~23, 2021 @University of Michigan, Ann Arbor, USA.
+   * Panos D Prevedouros, Eftihia G Nathanail, Md Mintu Miah, Rafaela De Melo Barros (2020). Analysis of Professional Drivers while Text-Reading, and Prediction of Driving Behavior Using Cluster Modeling, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2020.
+   * Md. Mintu Miah, Panos D Prevedouros,(2019). Effects of Reading Text While Driving: Analysis of 200 Honolulu Taxi Drivers on a Simulator, Proceedings of the Annual Meeting of the Transportation Research Board, TRB 2019.
+   * Das, B.K. and Miah, M.M.,(2017). Present Conditions of Most Hazardous Road Intersections: A Case Study of Rajshahi City, Bangladesh. International Conference on Planning, Architecture and Civil Engineering (ICPACE 2017), Volume-1, Issue-1, Pp-265-270, ISBN: 978-984-34-2154-8
 
 TECHNICAL REPORTS
 ======
-    * Kothuri, S., Broach, J., McNeil N., Hyun, K., Mattingly S., Miah, M., Proulx,F., Nordback, K., (2022). Exploring Data Fusion Techniques to Estimate Network-Wide Bicycle Volumes, National Institute for Transportation and Communities (NITC).
-    * Kate Hyun, Stephen Mattingly, Courtney Cronley, Noelle Fields, Md Mintu Miah, Farah Naz, Shamsun Nahar (2019), Characterizing Handitran Users and Their Travel Pattern, City of Arlington, Texas
+   * Kothuri, S., Broach, J., McNeil N., Hyun, K., Mattingly S., Miah, M., Proulx,F., Nordback, K., (2022). Exploring Data Fusion Techniques to Estimate Network-Wide Bicycle Volumes, National Institute for Transportation and Communities (NITC).
+   * Kate Hyun, Stephen Mattingly, Courtney Cronley, Noelle Fields, Md Mintu Miah, Farah Naz, Shamsun Nahar (2019), Characterizing Handitran Users and Their Travel Pattern, City of Arlington, Texas
     https://drive.google.com/file/d/1wjJ08e9L24LF4Qv1auMR4iTHhSHBO8a/view?usp=sharing
    * Prevedouros, Panos; Miah, M. Mintu; Nathanail, Eftihia (2020). Effects of Reading Text While Driving: A Driving Simulator Study. Published in Transportation Research information Database, Subject Areas: Highways; Safety and Human Factors; Report/Paper Numbers: INE/CSET 20.05; Files: UTC, TRIS, ATRI, USDOT; Accession Number: 01741882; https://trid.trb.org/view/1708998
    * Prevedouros, Panos D; Bhatta, Kishor; Miah, M Mintu (2019). 2007–2016 Fatal Traffic Crashes in Alaska, Hawaii, Idaho, and Washington and Characteristics of Traffic Fatalities Involving Hawaiians and CSET Minorities. Published in Transportation Research information Database, Subject Areas: Highways; Safety and Human Factors; Society; Report/Paper Numbers: INE/CSET 19.06; Files: UTC, TRIS, ATRI, USDOT; Accession Number: 01705745; https://scholarworks.alaska.edu/handle/11122/10041
-  * Miah, M.M., 2018. Effects of Reading Text While Driving Analysis Of 200 Honolulu Taxi Drivers On A VS500M Simulator, MS Dissertation, University Of Hawaiʻi at Mānoa, Scholar Space And Proquest. https://scholarspace.manoa.hawaii.edu/handle/10125/62045
+   * Miah, M.M., 2018. Effects of Reading Text While Driving Analysis Of 200 Honolulu Taxi Drivers On A VS500M Simulator, MS Dissertation, University Of Hawaiʻi at Mānoa, Scholar Space And Proquest. https://scholarspace.manoa.hawaii.edu/handle/10125/62045
 
 INVITED TALKS
 ======
@@ -149,58 +149,63 @@ HONORS
 
 MEDIA
 ======
-	 * Student Spotlight: Md Mintu Miah, University of Texas at Arlington, https://nitc.trec.pdx.edu/news/student-spotlight-md-mintu-miah-university-texas-arlington
+ * Student Spotlight: Md Mintu Miah, University of Texas at Arlington, https://nitc.trec.pdx.edu/news/student-spotlight-md-mintu-miah-university-texas-arlington
 
 PROFESSIONAL SERVICE AND AFFILIATIONS
 ======
-	* Reviewer, Transportation Engineering, Elsevier, Science Direct Journal	2020-Present
-	* Reviewer, Transportation Research Board (TRB) Conference Proceedings	2020-Present
-	* Reviewer, Transportation Research Record (TRR), Sage Journals	2021-Present
-	* Reviewer, ASCE’s Journal of Transportation Engineering, Part A: Systems	2021-Present
-	* Member: American Society of Civil Engineering #000011424635	2017-Present
-	* Member: Institute of Transportation Engineers (ITE), University of Texas at Arlington	2019-Present
-	* Member: Institute of Transportation Engineers (ITE), TexITE, member ID: 1089923	2021-Present
+ * Reviewer, Transportation Engineering, Elsevier, Science Direct Journal	2020-Present
+ * Reviewer, Transportation Research Board (TRB) Conference Proceedings	2020-Present
+ * Reviewer, Transportation Research Record (TRR), Sage Journals	2021-Present
+ * Reviewer, ASCE’s Journal of Transportation Engineering, Part A: Systems	2021-Present
+ * Member: American Society of Civil Engineering #000011424635	2017-Present
+ * Member: Institute of Transportation Engineers (ITE), University of Texas at Arlington	2019-Present
+ * Member: Institute of Transportation Engineers (ITE), TexITE, member ID: 1089923	2021-Present
 
 PROGRAMMING AND SOFTWARE SKILL
 ======
-	* Developed Automatic Python Scripts to collect wide range of data using API
-	* Experienced with Econometric and statistical methods for transportation data analysis using Python and R
-	* Experienced with travel demand modeling
-	* Experienced with big data mining, analysis, visualization, and interpretation  
-	* Traffic Analysis and simulation using VISSIM
-	* Transportation Network planning using GIS and TransCAD
-	* Data Base Design using SQL
-	* Statistical modeling using SPSS
-	* High quality report, journal and conference writing using Latex and Microsoft office
+ * Developed Automatic Python Scripts to collect wide range of data using API
+ * Experienced with Econometric and statistical methods for transportation data analysis using Python and R
+ * Experienced with travel demand modeling
+ * Experienced with big data mining, analysis, visualization, and interpretation  
+ * Traffic Analysis and simulation using VISSIM
+ * Transportation Network planning using GIS and TransCAD
+ * Data Base Design using SQL
+ * Statistical modeling using SPSS
+ * High quality report, journal and conference writing using Latex and Microsoft office
 
 IMPORTANT LINKS
 ======
-	* Google Scholar: https://scholar.google.com/citations?user=tYNG1aQAAAAJ&hl=en
-	* Research Gate: https://www.researchgate.net/profile/Mdmintu_Miah
-	* Linkedin: linkedin.com/in/md-mintu-miah-9194a3166
-	* Personal Website: https://mintu07ruet.github.io/
-	* Kaggle: https://www.kaggle.com/mintumiah/
-	* RUET Faculty Page: https://www.ruet.ac.bd/mintu07ruetce
+ * Google Scholar: https://scholar.google.com/citations?user=tYNG1aQAAAAJ&hl=en
+ * Research Gate: https://www.researchgate.net/profile/Mdmintu_Miah
+ * Linkedin: linkedin.com/in/md-mintu-miah-9194a3166
+ * Personal Website: https://mintu07ruet.github.io/
+ * Kaggle: https://www.kaggle.com/mintumiah/
+ * RUET Faculty Page: https://www.ruet.ac.bd/mintu07ruetce
   
 Skills
 ======
-	* R Programming (80%)
-	* Python (80%)
-	* Arc-GIS(80%)
-	* SPSS(95%)
-	* VISSIM(90%)
-	* TransCAD(70%)
-	* Microsoft Office (95%)
+ * R Programming (80%)
+ * Python (80%)
+ * Arc-GIS(80%)
+ * SPSS(95%)
+ * VISSIM(90%)
+ * TransCAD(70%)
+ * Microsoft Office (95%)
 
 Research Interestes
 ======
-	* Transportation Data Mining and Machine Learning
-	* Transportation Planning
-	* Transportation Network Design, Operations and Management
-	* Autonomous Vehicle 
-	* Traffic Safety 
-	* Intelligent Transportation System (ITS) 
-	* Driving Behavior
-	* Transportation Materials
+ * Transportation Data Mining and Machine Learning
+ * Transportation Planning
+ * Travel Demand Modeling
+ * Mobility and Energy Impacts of Disruptive Transportation Technologies
+ * Transportation System Efficiency Evaluation and Optimization
+ * Transportation Network Design, Operations and Management
+ * Smart connected rural and urban communities
+ * Zero-carbon transportation
+ * Autonomous Vehicle 
+ * Traffic Safety 
+ * Intelligent Transportation System (ITS) 
+ * Driving Behavior
+ * Transportation Materials
 
 [Download CV](/files/Miah_CV_2022.pdf)
