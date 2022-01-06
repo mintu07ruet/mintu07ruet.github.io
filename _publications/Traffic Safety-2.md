@@ -11,7 +11,7 @@ citation: 'Das, B. K., & Miah, M. (2020). Present Conditions of Most Hazardous R
 ---
 
 
-[Download paper here](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17901117510695129907)
+[Download paper here](https://www.researchgate.net/publication/325229647_Present_Conditions_of_Most_Hazardous_Road_Intersections_A_Case_Study_of_Rajshahi_City_Bangladesh)
 
 
 
