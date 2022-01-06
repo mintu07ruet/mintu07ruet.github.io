@@ -149,81 +149,58 @@ HONORS
 
 MEDIA
 ======
- * Student Spotlight: Md Mintu Miah, University of Texas at Arlington, https://nitc.trec.pdx.edu/news/student-spotlight-md-mintu-miah-university-texas-arlington
+	 * Student Spotlight: Md Mintu Miah, University of Texas at Arlington, https://nitc.trec.pdx.edu/news/student-spotlight-md-mintu-miah-university-texas-arlington
 
 PROFESSIONAL SERVICE AND AFFILIATIONS
 ======
-* Reviewer, Transportation Engineering, Elsevier, Science Direct Journal	2020-Present
-* Reviewer, Transportation Research Board (TRB) Conference Proceedings	2020-Present
-* Reviewer, Transportation Research Record (TRR), Sage Journals	2021-Present
-* Reviewer, ASCE’s Journal of Transportation Engineering, Part A: Systems	2021-Present
-* Member: American Society of Civil Engineering #000011424635	2017-Present
-* Member: Institute of Transportation Engineers (ITE), University of Texas at Arlington	2019-Present
-* Member: Institute of Transportation Engineers (ITE), TexITE, member ID: 1089923	2021-Present
+	* Reviewer, Transportation Engineering, Elsevier, Science Direct Journal	2020-Present
+	* Reviewer, Transportation Research Board (TRB) Conference Proceedings	2020-Present
+	* Reviewer, Transportation Research Record (TRR), Sage Journals	2021-Present
+	* Reviewer, ASCE’s Journal of Transportation Engineering, Part A: Systems	2021-Present
+	* Member: American Society of Civil Engineering #000011424635	2017-Present
+	* Member: Institute of Transportation Engineers (ITE), University of Texas at Arlington	2019-Present
+	* Member: Institute of Transportation Engineers (ITE), TexITE, member ID: 1089923	2021-Present
 
 PROGRAMMING AND SOFTWARE SKILL
 ======
-* Developed Automatic Python Scripts to collect wide range of data using API
-* Experienced with Econometric and statistical methods for transportation data analysis using Python and R
-* Experienced with travel demand modeling
-* Experienced with big data mining, analysis, visualization, and interpretation  
-* Traffic Analysis and simulation using VISSIM
-* Transportation Network planning using GIS and TransCAD
-* Data Base Design using SQL
-* Statistical modeling using SPSS
-* High quality report, journal and conference writing using Latex and Microsoft office
+	* Developed Automatic Python Scripts to collect wide range of data using API
+	* Experienced with Econometric and statistical methods for transportation data analysis using Python and R
+	* Experienced with travel demand modeling
+	* Experienced with big data mining, analysis, visualization, and interpretation  
+	* Traffic Analysis and simulation using VISSIM
+	* Transportation Network planning using GIS and TransCAD
+	* Data Base Design using SQL
+	* Statistical modeling using SPSS
+	* High quality report, journal and conference writing using Latex and Microsoft office
 
 IMPORTANT LINKS
 ======
-* Google Scholar: https://scholar.google.com/citations?user=tYNG1aQAAAAJ&hl=en
-* Research Gate: https://www.researchgate.net/profile/Mdmintu_Miah
-* Linkedin: linkedin.com/in/md-mintu-miah-9194a3166
-* Personal Website: https://mintu07ruet.github.io/
-* Kaggle: https://www.kaggle.com/mintumiah/
-* RUET Faculty Page: https://www.ruet.ac.bd/mintu07ruetce
+	* Google Scholar: https://scholar.google.com/citations?user=tYNG1aQAAAAJ&hl=en
+	* Research Gate: https://www.researchgate.net/profile/Mdmintu_Miah
+	* Linkedin: linkedin.com/in/md-mintu-miah-9194a3166
+	* Personal Website: https://mintu07ruet.github.io/
+	* Kaggle: https://www.kaggle.com/mintumiah/
+	* RUET Faculty Page: https://www.ruet.ac.bd/mintu07ruetce
   
 Skills
 ======
-* R Programming (80%)
-* Python (80%)
-* Arc-GIS(80%)
-* SPSS(95%)
-* VISSIM(90%)
-* TransCAD(70%)
-* Microsoft Office (95%)
+	* R Programming (80%)
+	* Python (80%)
+	* Arc-GIS(80%)
+	* SPSS(95%)
+	* VISSIM(90%)
+	* TransCAD(70%)
+	* Microsoft Office (95%)
 
 Research Interestes
 ======
-* Transportation Data Mining and Machine Learning
-* Transportation Planning
-* Transportation Network Design, Operations and Management
-* Autonomous Vehicle 
-* Traffic Safety 
-* Intelligent Transportation System (ITS) 
-* Driving Behavior
-* Transportation Materials
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 3 different slack teams
+	* Transportation Data Mining and Machine Learning
+	* Transportation Planning
+	* Transportation Network Design, Operations and Management
+	* Autonomous Vehicle 
+	* Traffic Safety 
+	* Intelligent Transportation System (ITS) 
+	* Driving Behavior
+	* Transportation Materials
 
 [Download CV](/files/Miah_CV_2022.pdf)
