@@ -2,7 +2,7 @@
 title: "Challenges and Opportunities of Emerging Data Sources to Estimate Network-Wide Bike Counts"
 collection: Journal of Transportation Engineering, Part A: Systems
 permalink: /publication/2022-03-01
-excerpt: ''
+excerpt:''
 date: 2022-03-01
 venue: 'American Society of Civil Engineers'
 paperurl: https://ascelibrary.org/doi/full/10.1061/JTEPBS.0000634
