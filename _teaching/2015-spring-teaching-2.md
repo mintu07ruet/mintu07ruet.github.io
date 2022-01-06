@@ -10,6 +10,7 @@ location: "Rajshahi, Bangladesh"
 
 Role
 ======
+I wroked as a Assistant Professor for Department of Civil Engineering at Rajshahi University of Engineering & Technology. My role was-
 1. Teaching undergraduate course and supervising undergraduate thesis
 2. Conducting research in the field of Transportation engineering
 3. Performing lab and field test on transportation materials 
