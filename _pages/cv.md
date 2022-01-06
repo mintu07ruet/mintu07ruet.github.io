@@ -12,9 +12,9 @@ redirect_from:
 ACADEMIC APPOINTMENT
 ======
 * University of Texas at Arlington, USA	
-    *Doctoral Research Assistant, Department of Civil Engineering	June 2019-Present
+    * Doctoral Research Assistant, Department of Civil Engineering,June 2019-Present
 * University of Texas at Arlington, USA	
-    *STEM Graduate Teaching Assistant, Department of Civil Engineering	Jan 2019-August 2019
+    * STEM Graduate Teaching Assistant, Department of Civil Engineering,Jan 2019-August 2019
 * University of Hawaii at Manoa, USA	
     * Graduate Research Assistant, Department of Civil and Environmental Engineering	Aug 2017-Dec 2018
 * Rajshahi University of Engineering and Technology, Bangladesh	
