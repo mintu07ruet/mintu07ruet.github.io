@@ -1,6 +1,6 @@
 ---
 title: "Predicting the Impact of Text-Reading Using Decision Trees (Book Chapter)"
-collection:Progress in Artificial Intelligence. EPIA 2019. Lecture Notes in Computer Science, vol 11804. Springer, Cham 
+collection: Progress in Artificial Intelligence. EPIA 2019. Lecture Notes in Computer Science, vol 11804. Springer, Cham 
 permalink: /publication/2019-08-10
 excerpt: ''
 date: 2019-10-10
