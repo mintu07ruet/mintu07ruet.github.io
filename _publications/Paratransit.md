@@ -12,4 +12,4 @@ citation: 'Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Co
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Md Mintu Miah, Farah Naz, Kyung (Kate) Hyun, Stephen P. Mattingly, Courtney Cronley, N. F. (2020). Barriers and Opportunities for Paratransit Users to Adopt On-Demand Micro Transit. Transportation Research Board.
+
