@@ -8,6 +8,6 @@ venue: 'International Journal of Computer Applications. Volume 111 – No 7'
 paperurl: 
 citation: 'Mamun, M.M.H., Miah, M.M. and Islam, M.I., 2015. Present condition of road traffic accident: A Case study of Rajshahi City, Bangladesh. International Journal of Computer Applications, 111(7).'
 ---
-[Download paper here](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=723202629806132173)
+[Download paper here](https://www.researchgate.net/publication/303390148_Present_Condition_of_Road_Traffic_Accident_A_Case_Study_of_Rajshahi_City_Bangladesh)
 
 
